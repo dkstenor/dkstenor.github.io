@@ -1,0 +1,33 @@
+* {
+    background-color:lightsteelblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-bottom: 6px;
+    width: 10%;
+}
+
+.title {
+    
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24pt;
+}
+
+.indent {
+    margin-left: 10px;
+}
+
+.headrow {
+    font-size:  18pt;
+}
+
+table {
+    margin: auto;
+}
+
